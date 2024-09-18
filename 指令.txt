@@ -1,0 +1,7 @@
+1.远端创一个空仓库
+2.git clone 地址
+3.cd 文件夹名称
+3.本地添加内容
+4.git add .
+5.git commit -m "备注"
+6.git push -u origin master
