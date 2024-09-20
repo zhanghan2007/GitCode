@@ -6,6 +6,15 @@
 5.git commit -m "备注"
 6.git push -u origin master (或者git push)
 
+本地已有文件夹到git
+git init
+git add .
+git commit -m "注释"
+git远端创建仓库（注意，不要添加readme，否则需要先合并才能push）
+git remote add origin https://github.com/zhanghan2007/xxx.git(仓库网址)
+git push -u origin master(第一次push这么写，后面push只要写git push即可)
+后续用git push即可
+
 ssh key
 https://zhuanlan.zhihu.com/p/688103044
 https://blog.csdn.net/weixin_42310154/article/details/118340458
