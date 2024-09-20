@@ -5,3 +5,7 @@
 4.git add .
 5.git commit -m "备注"
 6.git push -u origin master (或者git push)
+
+ssh key
+https://zhuanlan.zhihu.com/p/688103044
+https://blog.csdn.net/weixin_42310154/article/details/118340458
