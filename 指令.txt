@@ -18,3 +18,10 @@ git push -u origin master(第一次push这么写，后面push只要写git push�
 ssh key
 https://zhuanlan.zhihu.com/p/688103044
 https://blog.csdn.net/weixin_42310154/article/details/118340458
+
+克隆远端仓库到本地
+$ git clone git@github.com:zhanghan2007/UnityTools.git
+$ cd UnityTools
+$ git status
+
+
